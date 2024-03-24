@@ -1,0 +1,3 @@
+name = ("hmed")
+print (name)
+
